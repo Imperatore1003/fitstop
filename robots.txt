@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /img/
+
+Sitemap: https://www.fitstopalghero.com/sitemap.xml
