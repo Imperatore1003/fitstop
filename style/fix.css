@@ -1,4 +1,4 @@
-/* `md` applies to small devices (landscape phones, less than 768px) */
+/* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
     #contattaci-main {
         width: 75%;
@@ -7,6 +7,14 @@
     #contattaci-iframe {
         width: 400px;
         height: 350px;        
+    }
+
+    #team-container {
+        width: 75%;
+    }
+    #team-container .row img {
+        width: 75%;
+        height: 75%;   
     }
 }
 /* Medium devices (tablets, 768px and up) */
@@ -18,5 +26,20 @@
     #contattaci-iframe {
         width: 600px;
         height: 500px;
+    }
+
+    #team-container {
+        width: 75%;
+    }
+    #team-container .row img {
+        width: 50%;
+        height: 50%;   
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    #team-container {
+        width: 50%;
     }
 }
