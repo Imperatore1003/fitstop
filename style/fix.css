@@ -16,6 +16,14 @@
         width: 75%;
         height: 75%;   
     }
+    
+    .titolo-copertina {
+        background-image: url('/img/background.jpg');
+        height: 30vh;
+        background-position: center;
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+    }
 }
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
@@ -34,6 +42,14 @@
     #team-container .row img {
         width: 50%;
         height: 50%;   
+    }
+
+    .titolo-copertina {
+        background-image: url('/img/background.jpg');
+        height: 60vh;
+        background-position: center;
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
     }
 }
 
