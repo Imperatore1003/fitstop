@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /img/
+Allow: /img/corsi/
+Allow: /img/ppl/
 
 Sitemap: https://www.fitstopalghero.com/sitemap.xml
