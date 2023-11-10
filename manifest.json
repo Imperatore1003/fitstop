@@ -56,6 +56,7 @@
         "icons": [{ "src": "/img/icon-192.png", "sizes": "192x192" }]
       }
     ],
-    "description": "Benvenuti nella migliore palestra ad Alghero! Scoprite una vasta gamma di corsi di fitness, allenamenti personalizzati e un ambiente accogliente per raggiungere i vostri obiettivi di salute e forma fisica. Visitateci oggi e iscrivetevi ai nostri corsi di yoga, pilates, allenamento funzionale e molto altro. Siamo qui per aiutarvi a vivere una vita sana e attiva."
+    "description": "Benvenuti nella migliore palestra ad Alghero! Scoprite una vasta gamma di corsi di fitness, allenamenti personalizzati e un ambiente accogliente per raggiungere i vostri obiettivi di salute e forma fisica. Visitateci oggi e iscrivetevi ai nostri corsi di yoga, pilates, allenamento funzionale e molto altro. Siamo qui per aiutarvi a vivere una vita sana e attiva.",
+    "lang": "it"
   }
   
