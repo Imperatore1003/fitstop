@@ -1,0 +1,61 @@
+{
+    "short_name": "FitStop",
+    "name": "FitStop Alghero",
+    "icons": [
+      {
+        "src": "/img/icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#dc3545",
+    "shortcuts": [
+      {
+        "name": "Home",
+        "short_name": "Home",
+        "description": "Benvenuti nella migliore palestra ad Alghero! Scoprite una vasta gamma di corsi di fitness, allenamenti personalizzati e un ambiente accogliente per raggiungere i vostri obiettivi di salute e forma fisica. Visitateci oggi e iscrivetevi ai nostri corsi di yoga, pilates, allenamento funzionale e molto altro. Siamo qui per aiutarvi a vivere una vita sana e attiva.",
+        "url": "/?source=pwa",
+        "icons": [{ "src": "/img/icon-192.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "Corsi",
+        "short_name": "Corsi",
+        "description": "Esplorate la nostra ampia selezione di corsi presso la palestra di Alghero. Dalle lezioni di yoga rilassanti agli allenamenti intensi di crossfit, troverete il corso perfetto per raggiungere i vostri obiettivi di fitness. Scoprite ora i nostri programmi, orari e istruttori qualificati. Unisciti a noi per un percorso di allenamento su misura per te!",
+        "url": "/corsi?source=pwa",
+        "icons": [{ "src": "/img/icon-192.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "Team",
+        "short_name": "Team",
+        "description": "Conoscete il nostro eccezionale team di istruttori e allenatori presso la palestra ad Alghero. I nostri esperti altamente qualificati sono qui per guidarvi attraverso il vostro percorso di fitness. Scoprite le competenze e le specializzazioni di ciascun membro del nostro team, e scegliete l'allenatore giusto per voi. Siamo impegnati a fornirvi la massima assistenza per raggiungere i vostri obiettivi di salute e benessere.",
+        "url": "/team?source=pwa",
+        "icons": [{ "src": "/img/icon-192.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "Testimonianze",
+        "short_name": "Testimonianze",
+        "description": "Scoprite cosa dicono i nostri clienti sulle loro esperienze nella palestra ad Alghero. Leggete le testimonianze sincere e ispiratevi alle storie di successo di coloro che hanno raggiunto i loro obiettivi di salute e forma fisica con noi. Unisciti a una comunità di clienti soddisfatti e inizia il tuo percorso di trasformazione oggi!",
+        "url": "/testimonianze?source=pwa",
+        "icons": [{ "src": "/img/icon-192.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "Contattaci",
+        "short_name": "Contattaci",
+        "description": "Contattate la nostra palestra ad Alghero per qualsiasi domanda o richiesta. Siamo qui per fornirvi informazioni sui nostri servizi, orari, prezzi e per rispondere a tutte le vostre esigenze. Prenotate una visita o chiedete informazioni sul come raggiungerci. Saremo felici di aiutarvi a iniziare il vostro percorso di fitness.",
+        "url": "/contattaci?source=pwa",
+        "icons": [{ "src": "/img/icon-192.png", "sizes": "192x192" }]
+      }
+    ],
+    "description": "Benvenuti nella migliore palestra ad Alghero! Scoprite una vasta gamma di corsi di fitness, allenamenti personalizzati e un ambiente accogliente per raggiungere i vostri obiettivi di salute e forma fisica. Visitateci oggi e iscrivetevi ai nostri corsi di yoga, pilates, allenamento funzionale e molto altro. Siamo qui per aiutarvi a vivere una vita sana e attiva."
+  }
+  
